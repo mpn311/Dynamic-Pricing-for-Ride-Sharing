@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project aims to build a machine learning-based **dynamic pricing engine** for ride-sharing platforms. The system adjusts ride prices based on **real-time supply and demand**, **ride features**, and **external factors** (e.g., weather, time, and traffic). The goal is to maximize revenue while maintaining user satisfaction and fair pricing.
+This project aims to build a machine learning-based **dynamic pricing engine** for ride-sharing platforms. The system adjusts ride prices based on **real-time supply and demand**, **ride features**, and **external factors**  weather, time, and traffic. The goal is to maximize revenue while maintaining user satisfaction and fair pricing.
 
 ---
 
