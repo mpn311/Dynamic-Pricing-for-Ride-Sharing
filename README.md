@@ -51,8 +51,8 @@ This project aims to build a machine learning-based **dynamic pricing engine** f
 - Random Forest Regressor
 
 ### Advanced
-- Gradient Boosted Trees (XGBoost, LightGBM)
-- Neural Networks (MLP or LSTM for time-series forecasting)
+- Gradient Boosted Trees (XGBoost)
+- Neural Networks (LSTM or GRUfor time-series forecasting)
 
 ---
 
@@ -76,7 +76,7 @@ This project aims to build a machine learning-based **dynamic pricing engine** f
 │   ├── 01_eda.ipynb
 │   └── 02_modeling.ipynb
 ├── app/
-│   └── pricing_app.py         # Optional Streamlit UI
+│   └── pricing_app.py         
 ├── models/
 │   └── trained_model.pkl
 ├── utils/
