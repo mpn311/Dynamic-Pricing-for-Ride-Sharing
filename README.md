@@ -1,4 +1,4 @@
-# 🚕 Dynamic Pricing for Ride-Sharing
+# 🚕 Dynamic Pricing for Ride-Sharing 
 
 ## 📌 Project Overview
 
@@ -65,21 +65,3 @@ This project aims to build a machine learning-based **dynamic pricing engine** f
 
 ---
 
-## 🛠️ Project Structure
-
-```bash
-.
-├── data/
-│   ├── ride_data.csv
-│   └── weather_data.csv
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   └── 02_modeling.ipynb
-├── app/
-│   └── pricing_app.py         
-├── models/
-│   └── trained_model.pkl
-├── utils/
-│   └── feature_engineering.py
-├── README.md
-└── requirements.txt
